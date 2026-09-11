@@ -1,0 +1,6 @@
+{
+  "name": "Eywa - Dale Vida a Tu Hogar",
+  "description": "Kits de autocultivo ecológicos con quiz de recomendación vegetal, catálogo de fichas técnicas y app companion digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
